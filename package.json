@@ -1,6 +1,6 @@
 {
   "name": "weather-app",
-  "homepage": "https://caringcoder.github.io/weather",
+  "homepage": "http://caringcoder.github.io/weather/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
